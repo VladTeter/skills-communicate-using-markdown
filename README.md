@@ -8,7 +8,6 @@
 -->
 
 # Communicate using Markdown
-# Edited
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -55,7 +54,5 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-###### I have added the "Edited" header text
 
 </footer>
