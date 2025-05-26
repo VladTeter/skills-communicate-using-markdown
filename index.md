@@ -7,3 +7,8 @@
 ``` python
 print(eval(input()))
 ```
+
+## Task List
+- [ ] Task 1
+- [ ] Task two
+- [ ] Task tres
